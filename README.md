@@ -28,4 +28,4 @@ The primary objective of this project is to customer and campaign data to improv
 
 5) Optimize Marketing Spend
    (a) Allocate fixed budget across multiple campaigns for the best ROI
-   (b) KPI: Reduce reporting time by >= 80%; Adoption by 10+ Stakeholders
+   (b) KPI: Reduce reporting time by >= 80%; Adoption by 10+ Stakeholders.
