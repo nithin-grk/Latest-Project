@@ -1,6 +1,7 @@
-# Latest-Project
+# Customer Lifetime Value and Campaign Optimization
 
 Project Name : Customer Lifetime Value and Campaign Optimization
+
 End-to-end project simulating how a tech subsciption platform (like Apple Music, iCloud, Microsoft XBox Game Pass) uses Data Science to predict customer value, run experiments and optimize marketing campaigns.
 
 Project Summary:
