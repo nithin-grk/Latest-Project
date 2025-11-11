@@ -17,7 +17,7 @@ The primary objective of this project is to customer and campaign data to improv
 
 2) Reduce Customer Churn:
    (a) Reduce "At Risk Customers" before they leave
-   (b) KPI: Churn Prediction Recall >= 0.80 at 60-day horizon
+   (b) KPI: Churn Prediction Recall >= 0.80 at 60-day horizon.
 
 3) Improve Campaig Targetting:
    (a) Prediction the likellihood of conversion for each customer
