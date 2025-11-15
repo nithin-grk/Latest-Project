@@ -13,7 +13,7 @@ The primary objective of this project is to customer and campaign data to improv
 
 1) Predict Customer Value (LTV):
    (a) Estimate each customer's 6-month and 12-month Lifetime value.
-   (b) KPI: Lifetime Prediction accuracy (R2 >= 0.65 & MAPE <= 25%).
+   (b) KPI: Lifetime Prediction accuracy (R2 >= 0.65 & MAPE <= 25%)
 
 2) Reduce Customer Churn:
    (a) Reduce "At Risk Customers" before they leave
