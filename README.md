@@ -12,7 +12,7 @@ Business Goals and Key Performance Indicator:
 The primary objective of this project is to customer and campaign data to improve marketing efficiency, increase retention and maximize revenue. Success will be measured using the following business goals and key performance indicators:
 
 1) Predict Customer Value (LTV):
-   (a) Estimate each customer's 6-month and 12-month Lifetime value.
+   (a) Estimate each customer's 6-month and 12-month Lifetime value,
    (b) KPI: Lifetime Prediction accuracy (R2 >= 0.65 & MAPE <= 25%)
 
 2) Reduce Customer Churn:
